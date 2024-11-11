@@ -13,6 +13,8 @@
     width: 50vw;
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
     
 }
 .divcard p{
@@ -21,8 +23,9 @@
     margin-left: 1rem;
 }
 .conp{
-    width: 22vw;
+    margin-bottom: 1rem;
     flex-shrink: 1;
+    width: 20rem;
 }
 
 .card:hover {

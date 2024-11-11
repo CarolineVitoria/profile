@@ -9,8 +9,10 @@ export default function Projetos() {
     ];
     return (
         <main className='cprojetos' id='projetos'>
-            
+            <div className='divh2'>
             <h2>Meus Projetos</h2>
+            </div>
+            
             <div className='a'>
                 {fotos.map((item, index)=>(
                     <Card end={item.url} titulo={item.titulo} desc={item.descricao} cami={item.caminho} key={index}/>
