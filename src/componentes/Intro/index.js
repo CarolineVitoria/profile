@@ -6,7 +6,7 @@ export default function Intro() {
             <div className='ctexto'>
             <h1>Olá, seja bem  vindo!</h1>
             <p>
-                Olá, meu nome é vitória! Sou estudante de ciência da computação do 4 período. Atualmente estudo React js, esse projeto foi feito com o mesmo.
+                Olá, meu nome é vitória! Sou estudante de ciência da computação do 6 período.
             </p>
             </div>
 
